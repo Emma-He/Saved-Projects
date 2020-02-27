@@ -1,2 +1,2 @@
 # Saved-Projects
-A few saved projects from AP Computer Science A &amp; IB Revision Website
+Some saved coursework/projects from AP Computer Science A &amp; IB Revision Website
